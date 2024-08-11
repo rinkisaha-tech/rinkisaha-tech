@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rinki Saha</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fag-richa-13%2Fag-richa-13&psig=AOvVaw3UKmRqBz_AWKpH7s0p-3kz&ust=1723488057763000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiflL3L7YcDFQAAAAAdAAAAABAP">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAamiiira%2FAamiiira&psig=AOvVaw3UKmRqBz_AWKpH7s0p-3kz&ust=1723488057763000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiflL3L7YcDFQAAAAAdAAAAABBF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinkisaha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="rinkisaha-tech" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://abstracted-m7.github.io/portfolio/](https://abstracted-m7.github.io/portfolio/)
+- 📫 How to reach me **rinkisaha515@gmail.com**
 
-- 📫 How to reach me **manishgiri8101@gmail.com**
-
-- 📄 Know about my experiences [Java,DSA](Java,DSA)
+- 📄 Know about my experiences [Java, DSA, Database, MongoDB](Java, DSA, Database, MongoDB)
 
 - ⚡ Fun fact **I think I am Funny**
 
@@ -28,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkisaha-tech&show_icons=true&locale=en&layout=compact" alt="rinkisaha-tech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinkisaha-tech&show_icons=true&locale=en" alt="rinkisaha-tech" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkisaha-tech&" alt="rinkisaha-tech" /></p>
