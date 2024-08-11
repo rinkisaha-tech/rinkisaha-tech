@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rinkisaha515@gmail.com**
 
-- 📄 Know about my experiences [Java, DSA, Database, MongoDB](Java, DSA, Database, MongoDB)
+- 📄 Know about my experiences [Java, DSA, Database, MongoDB]
 
 - ⚡ Fun fact **I think I am Funny**
 
