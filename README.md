@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rinki Saha</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAamiiira%2FAamiiira&psig=AOvVaw3UKmRqBz_AWKpH7s0p-3kz&ust=1723488057763000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiflL3L7YcDFQAAAAAdAAAAABBF">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinkisaha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="rinkisaha-tech" /> </p>
 
