@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinkisaha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="rinkisaha-tech" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently learning **DSA-DAA**
 
 - 📫 How to reach me **rinkisaha515@gmail.com**
 
